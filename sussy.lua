@@ -13,7 +13,7 @@
 -- you need the following functions
 -- loadstring, HttpGet, getgc, getloadedmodules, getconnections, and set_thread_identity or whatever you call it
 
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/wally-rblx/uwuware-ui/main/main.lua"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/TheOrangeYoshi/backup-funky-friday-script/main/mainnnnnnnnn.lua"))()
 
 local framework, scrollHandler
 while true do
